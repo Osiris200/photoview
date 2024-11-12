@@ -5,6 +5,7 @@
     "sort_by": "Sort by",
     "sorting_options": {
       "date_imported": "Date imported",
+      "random": "Random",
       "date_shot": "Date shot",
       "title": "Title",
       "type": "Kind"
